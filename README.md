@@ -3,7 +3,6 @@
 Group members: Abhirup Choudhary, Akshaya Jha, Arush Srivastava, Tanya Yadav, Anirban Chatterjee, Palak Kumari, Muskan Jain
 Project alloted on 4th March,2024
 Submission deadline: 20th March,2024
-Submission deadline extended to: 21st March,2024
 
 Materials and devices used: Arduino, 2 motors, 1 castor wheel, male to male wires, male to female wires, wooden, drilling machine, soldering machine, hot glue gun, double sided tape; 5 IR sensors, breadboard, battery, pair of wheels, 
 
