@@ -1,7 +1,20 @@
-# Line-Follower-Bot-
+# Line-Follower-Bot
 
+Group members: Abhirup Choudhary, Akshaya Jha, Arush Srivastava, Tanya Yadav, Anirban Chatterjee, Palak Kumari, Muskan Jain
+Project alloted on 4th March,2024
+Submission deadline: 20th March,2024
+Submission deadline extended to: 21st March,2024
 
-basic code for sensor esp 32
+Materials and devices used: Arduino, 2 motors, 1 castor wheel, male to male wires, male to female wires, wooden, drilling machine, soldering machine, hot glue gun, double sided tape; 5 IR sensors, breadboard, battery, pair of wheels, 
+
+Week 1: 
+Cutting of wood for chassis and gathering other components done by Arush, Abhirup and Anirban
+Basic code for sensors and motors written by Tanya and Akshaya
+Assembly of components like castor wheel, motors, and wheels on the chassis done by Abhirup, Arush, Anirban, Tanya, Akshaya
+
+Week 2: 
+Code according to the bot written by Abhirup for ir and motors separately.
+Basic code for sensor esp 32
 
 #define SENSOR_PIN_1
 #define SENSOR_PIN_2
